@@ -20,7 +20,7 @@ body {
 
 .sub-title {
     position: relative;
-    top: 270px;
+    top: 50px;
     margin: auto;
     width: 500px;
 }
@@ -44,7 +44,7 @@ body {
 }
 
 .container {
-    top: 300px;
+    top: 70px;
     margin: auto;
     position: relative;
     width: 400px;
